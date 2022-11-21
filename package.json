@@ -1,0 +1,24 @@
+{
+  "name": "sequelize_pg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "dev" : "nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Baltyr/Sequelize_PG.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Baltyr/Sequelize_PG/issues"
+  },
+  "homepage": "https://github.com/Baltyr/Sequelize_PG#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
